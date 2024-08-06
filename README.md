@@ -20,13 +20,13 @@ Usage
 2. Set up the environment:
    - Create a virtual environment and activate it:
      ```sh
-     python -m venv venv
+     python3 -m venv venv
      source venv/bin/activate
      ```
 
 3. Run the Password Strength Checker:
    ```sh
-   python checker.py
+   python3 checker.py
    ```
 
 
